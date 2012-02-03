@@ -6,7 +6,7 @@
 
 " General {
     " Load Pathogen
-    call pathogen#runtime_append_all_bundles()
+    call pathogen#runtime_append_all_bundles('bundles')
 
     set background=dark
     set cmdheight=2
