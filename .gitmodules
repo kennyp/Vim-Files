@@ -1,0 +1,24 @@
+[submodule "vim/bundles/js-mask"]
+	path = vim/bundles/js-mask
+	url = https://github.com/tyok/js-mask.git
+[submodule "vim/bundles/cute-python"]
+	path = vim/bundles/cute-python
+	url = https://github.com/ehamberg/vim-cute-python.git
+[submodule "vim/bundles/gundo"]
+	path = vim/bundles/gundo
+	url = http://github.com/sjl/gundo.vim.git
+[submodule "vim/bundles/jasmine"]
+	path = vim/bundles/jasmine
+	url = https://github.com/claco/jasmine.vim
+[submodule "vim/bundles/coffee-script"]
+	path = vim/bundles/coffee-script
+	url = git://github.com/kchmck/vim-coffee-script.git
+[submodule "vim/bundles/clang-complete"]
+	path = vim/bundles/clang-complete
+	url = https://github.com/Rip-Rip/clang_complete.git
+[submodule "vim/bundles/rails"]
+	path = vim/bundles/rails
+	url = https://github.com/tpope/vim-rails.git
+[submodule "vim/bundles/fugitive"]
+	path = vim/bundles/fugitive
+	url = https://github.com/tpope/vim-fugitive.git
