@@ -1,0 +1,9 @@
+Vim-Files
+=========
+Kenny Parnell <k.parnell+github@gmail.com>
+:Author Initials: KCP
+:toc:
+:numbered:
+:website: http://www.kennethparnell.com
+
+My vim config files.
